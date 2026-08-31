@@ -4,21 +4,6 @@ This repository contains my **Object-Oriented Programming (OOPs) lab assignments
 
 The repository is organized lab-wise to keep all assignments, programs, and solutions structured and easy to maintain.
 
-## 📚 Lab Assignments
-
-| Lab   | Topic / Assignment | Status    |
-| ----- | ------------------ | --------- |
-| Lab 1 | —                  | ⏳ Pending |
-| Lab 2 | —                  | ⏳ Pending |
-| Lab 3 | —                  | ⏳ Pending |
-| Lab 4 | —                  | ⏳ Pending |
-| Lab 5 | —                  | ⏳ Pending |
-| Lab 6 | —                  | ⏳ Pending |
-| Lab 7 | —                  | ⏳ Pending |
-| Lab 8 | —                  | ⏳ Pending |
-
-> Topics and status will be updated as each lab assignment is completed.
-
 ## 📁 Repository Structure
 
 ```text
@@ -60,15 +45,26 @@ The purpose of this repository is to:
 * Track assignment completion throughout the course.
 * Maintain a clean GitHub record of academic work.
 
+## 📚 Lab Assignments
+
+| Lab   | Topic / Assignment                 | Status      |
+| ----- | ---------------------------------- | ----------- |
+| Lab 1 | Basics of C++, Classes and Objects | ✅ Completed |
+| Lab 2 | —                                  | ⏳ Pending   |
+| Lab 3 | —                                  | ⏳ Pending   |
+| Lab 4 | —                                  | ⏳ Pending   |
+| Lab 5 | —                                  | ⏳ Pending   |
+| Lab 6 | —                                  | ⏳ Pending   |
+| Lab 7 | —                                  | ⏳ Pending   |
+| Lab 8 | —                                  | ⏳ Pending   |
+
 ## 📈 Lab Assignment Progress
 
-This section will be updated after every completed lab assignment.
-
-**Completed:** 0 / 8
+**Completed:** 1 / 8
 
 ### Current Progress
 
-* ⏳ Lab 1 — Not Started
+* ✅ Lab 1 — Basics of C++, Classes and Objects
 * ⏳ Lab 2 — Not Started
 * ⏳ Lab 3 — Not Started
 * ⏳ Lab 4 — Not Started
@@ -76,8 +72,6 @@ This section will be updated after every completed lab assignment.
 * ⏳ Lab 6 — Not Started
 * ⏳ Lab 7 — Not Started
 * ⏳ Lab 8 — Not Started
-
----
 
 ## 📝 Notes
 
