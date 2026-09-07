@@ -47,31 +47,16 @@ The purpose of this repository is to:
 
 ## 📚 Lab Assignments
 
-| Lab   | Topic / Assignment                 | Status      |
-| ----- | ---------------------------------- | ----------- |
+| Lab | Topic / Assignment | Status |
+|---|---|---|
 | Lab 1 | Basics of C++, Classes and Objects | ✅ Completed |
-| Lab 2 | —                                  | ⏳ Pending   |
-| Lab 3 | —                                  | ⏳ Pending   |
-| Lab 4 | —                                  | ⏳ Pending   |
-| Lab 5 | —                                  | ⏳ Pending   |
-| Lab 6 | —                                  | ⏳ Pending   |
-| Lab 7 | —                                  | ⏳ Pending   |
-| Lab 8 | —                                  | ⏳ Pending   |
-
-## 📈 Lab Assignment Progress
-
-**Completed:** 1 / 8
-
-### Current Progress
-
-* ✅ Lab 1 — Basics of C++, Classes and Objects
-* ⏳ Lab 2 — Not Started
-* ⏳ Lab 3 — Not Started
-* ⏳ Lab 4 — Not Started
-* ⏳ Lab 5 — Not Started
-* ⏳ Lab 6 — Not Started
-* ⏳ Lab 7 — Not Started
-* ⏳ Lab 8 — Not Started
+| Lab 2 | Constructors and Destructors | ✅ Completed |
+| Lab 3 | — | ⏳ Pending |
+| Lab 4 | — | ⏳ Pending |
+| Lab 5 | — | ⏳ Pending |
+| Lab 6 | — | ⏳ Pending |
+| Lab 7 | — | ⏳ Pending |
+| Lab 8 | — | ⏳ Pending |
 
 ## 📝 Notes
 
