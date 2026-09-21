@@ -52,7 +52,7 @@ The purpose of this repository is to:
 | Lab 1 | Basics of C++, Classes and Objects | ✅ Completed |
 | Lab 2 | Constructors and Destructors | ✅ Completed |
 | Lab 3 | Friend Functions and Static Members | ✅ Completed |
-| Lab 4 | — | ⏳ Pending |
+| Lab 4 | Inheritance | ✅ Completed |
 | Lab 5 | — | ⏳ Pending |
 | Lab 6 | — | ⏳ Pending |
 | Lab 7 | — | ⏳ Pending |
