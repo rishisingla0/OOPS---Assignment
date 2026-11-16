@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int age;
+
+    cout << "Enter your age: ";
+    cin >> age;
+
+    try {
+        if (age < 0) {
+            throw age;
+        }
+
+        cout << "Age = " << age << endl;
+    }
+    catch (int a) {
+        cout << "Exception: Age cannot be negative." << endl;
+    }
+
+    return 0;
+}
